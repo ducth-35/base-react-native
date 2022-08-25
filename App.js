@@ -14,6 +14,7 @@ const App = () => {
       <Text> App 1 </Text>
       <Text> App 1 </Text>
       <Text> App 1 </Text>
+      <Text> Trương huynh duc </Text>
     </View>
   );
 }
