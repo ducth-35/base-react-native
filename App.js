@@ -5,15 +5,6 @@ const App = () => {
   return (
     <View>
       <Text> App </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
-      <Text> App 1 </Text>
     </View>
   );
 }
